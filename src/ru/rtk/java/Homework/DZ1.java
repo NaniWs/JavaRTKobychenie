@@ -3,7 +3,7 @@ package ru.rtk.java.Homework;
 import java.util.Scanner;
 
 public class DZ1 {
-    public static void DZ1(String[] args) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите ваше имя: ");
         String userName = scanner.nextLine();
