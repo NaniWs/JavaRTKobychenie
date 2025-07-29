@@ -6,7 +6,7 @@ import java.util.Map;
 
 import java.util.Scanner;
 
-public class Klawa.java{
+public class Klawa {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         char input = scanner.next().charAt(0);  // читаем один символ
